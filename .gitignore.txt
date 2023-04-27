@@ -1,0 +1,7 @@
+Gizli.txt 
+.idea/
+Gereksiz.txt
+
+
+
+Bu tarz görmezden gelmek istediğimiz file isimlerini yazıyoruz
